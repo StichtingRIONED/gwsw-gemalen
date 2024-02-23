@@ -172,9 +172,29 @@ Het is voor een beheerder belangrijk om te weten wat de primaire, secundaire en 
 Voor goed beheer is het belangrijk om vast te leggen wat vanaf welk type elektriciteitskast het gemaal de energievoorziening krijgt. Hiervoor kan gekozen worden uit de volgende typen: 
 - Besturingskast - Een elektriciteitskast met een energieaansluiting voor de besturing en voeding van één regelvoorziening. Er is geen sprake van dochterkasten.
 - Centrale Moederkast - Een elektriciteitskast met een energieaansluiting voor besturing en voeding van één regelvoorziening en de voeding van één of meer dochterkasten.
-- Dochterkast (synoniem is Decentrale kast) - Een elektriciteitskast zonder een energieaansluiting voor besturing en voeding van één regelvoorziening en eventueel de voeding van één of meer dochterkasten.
 - Centrale Voedingskast (synoniem is Centrale Verdeelkast - Een elektriciteitskast met een energieaansluiting voor de voeding van één of meer dochterkasten.
+- Dochterkast (synoniem is Decentrale kast) - Een elektriciteitskast zonder een energieaansluiting voor besturing en voeding van één regelvoorziening en eventueel de voeding van één of meer dochterkasten.
 
+
+<img src="media/legenda_elektriciteitskasten.jpg" width="256" alt="Legenda"></a>
+
+*Legenda voor onderstaande schematisaties* 
+
+<img src="media/besturingskast.jpg" width="512" alt="Besturingskast"></a>
+
+*Schematisatie van een Besturingskast* 
+
+<img src="media/centralemoederkast.jpg" width="512" alt="Centrale moederkast"></a>
+
+*Schematisatie van een Centrale moederkast* 
+
+<img src="media/centralevoedingkast.jpg" width="512" alt="Centrale voedingskast"></a>
+
+*Schematisatie van een Centrale voedingskast* 
+
+<img src="media/dochterkast.jpg" width="512" alt="Dochterkast"></a>
+
+*Schematisatie van dochterkasten
 
 # Vervolg
 
