@@ -117,17 +117,18 @@ Een boostergemaal, gemaal droge opstelling, gemaal natte opstelling, opvoergemaa
 
 *Afbeelding van een centrifugaalpomp* 
 
-Van de pomp is het pompfabrikaat (synoniem is pompfabrikant), pomptype, serienummer en bouwjaar relevant om vast te leggen voor het beheer, alsook de hoogte van het pomphart en de pompplaatsing. De meeste relevante kenmerken voor beheer zijn af te leiden uit het pompfabrikaat en pomptype. Bij de pompplaatsing kan gekozen worden uit Horizontaal of Verticaal. Daarnaast kan worden vastgelegd of het een vaste opstelling is of in een slede.
+Van de pomp is het pompfabrikaat (synoniem is pompfabrikant), pomptype, gewicht en serienummer relevant om vast te leggen voor het beheer, alsook de hoogte van het pomphart en de pompplaatsing. De meeste relevante kenmerken voor beheer zijn af te leiden uit het pompfabrikaat en pomptype. Bij de pompplaatsing kan gekozen worden uit Horizontaal of Verticaal. Daarnaast kan hierbij worden vastgelegd of het een vaste opstelling is of in een slede.
 
-Een pomp bestaat uit de volgende onderdelen: Pomphuis, pompmotor, pompwaaier, pompsnijplaat, pompmes, pompklauw, aansluiting, geleidestang en hijsketting. 
+Een pomp bestaat uit de volgende onderdelen: Pomphuis, pompmotor, pompwaaier, pompsnijplaat, pompmes, pompklauw, pompaansluiting, geleidestang, hijsketting en frequentieomvormer. 
 - Van de pompmotor is de I nominaal, max. toerental, gewicht, typeaanduiding, begindatum, motorvermogen, asvermogen, serienummer en voltage relevant.
 - Er zijn op hoofdlijnen twee type pompwaaiers: 1) Vortexwaaier en 2) Centrifugaalwaaier. Een centrifugaalwaaier heeft de volgende subtypen: Gesloten kanaalwaaier, Open kanaalwaaier, Schroefwaaier, N-waaier, Snijwaaier en S-tubewaaier. Bij de pompwaaier is het daarnaast belangrijk het materiaal vast te leggen. Dit kan zijn: Gietijzer, RVS, Chroomstaal (synoniem is Hard iron) of Gehard staal.
 - Omdat een pompklauw losgeleverd kan worden van de pomp, is het belangrijk om vast te leggen wat de doorlaatdiameter is en bij welke voetbocht de pompklauw hoort.
-- De aansluiting kan zijn aan de onderkant via een voetbocht of aan de bovenkant via een hangkoppeling (synoniem is bovenwaterkoppeling)
+- De pompaansluiting kan zijn aan de onderkant via een voetbocht of aan de bovenkant via een hangkoppeling (synoniem is bovenwaterkoppeling)
  - Van voetbocht is de fabrikant, typeaanduiding, doorlaatdiameter in, doorlaatdiameter uit en het materiaal relevant. Met diameterdoorlaat in en uit kan worden aangegeven dat de voetbocht conisch van vorm is.
  - Van hangkoppeling is de diameter van de slag relevant.
 - Van de geleidestang is de diameter en lengte relevant.
 - Van de hijsketting is het relevant of deze wel/niet gecertificeerd is, tot wanneer de certificering geldig is, de lengte van de ketting en of deze weg/geen overnameoog (synoniem is overnameschalm) heeft.
+- Een frequentieomvormer kan deel zijn van een pomp of als los apparaat ind e elektriciteitskast. Relevante kenmerken zijn Serienummer en type.
 
 <img src="media/schroefwaaier.jpg" width="256" height="256" alt="Schroefwaaier"></a> <img src="media/stubewaaier.jpg" width="256" height="256" alt="S tube waaier"></a> <img src="media/geslotenkanaalwaaier.jpg" width="256" height="256" alt="Gesloten kanaalwaaier"></a> 
 
@@ -135,7 +136,7 @@ Een pomp bestaat uit de volgende onderdelen: Pomphuis, pompmotor, pompwaaier, po
 
 ### Vacuümpomp
 
-Een vacuümpompstation heeft als onderdeel een vacuümpomp, die het stelsel vacuüm zuigt, waardoor het afvalwater de leidingen in gaat. Van een vacuümpomp is het pompfabrikaat (synoniem is pompfabrikant), pomptype, serienummer en bouwjaar relevant om vast te leggen voor het beheer. 
+Een vacuümpompstation heeft als onderdeel een vacuümpomp, die het stelsel vacuüm zuigt, waardoor het afvalwater de leidingen in gaat. Van een vacuümpomp is het pompfabrikaat (synoniem is pompfabrikant), pomptype en serienummer relevant om vast te leggen voor het beheer. 
 
 <a title="Srstevens3, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Vacuum_Station_Layout.jpg"><img width="512" alt="Vacuumpompstation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Vacuum_Station_Layout.jpg/512px-Vacuum_Station_Layout.jpg"></a>
 
