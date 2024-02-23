@@ -125,7 +125,7 @@ Een pomp bestaat uit de volgende onderdelen: Pomphuis, pompmotor, pompwaaier, po
 - Van de geleidestang is de diameter en lengte relevant.
 - Van de hijsketting is het relevant of deze wel/niet gecertificeerd is, tot wanneer de certificering geldig is, de lengte van de ketting en of deze weg/geen overnameoog (synoniem is overnameschalm) heeft.
 
-<img src="media/schroefwaaier.jpg" width="256" alt="Schroefwaaier"></a> <img src="media/stubewaaier.jpg" width="256" alt="S tube waaier"></a> <img src="media/geslotenkanaalwaaier.jpg" width="256" alt="Gesloten kanaalwaaier"></a> 
+<img src="media/schroefwaaier.jpg" width="256" height="256" alt="Schroefwaaier"></a> <img src="media/stubewaaier.jpg" width="256" height="256" alt="S tube waaier"></a> <img src="media/geslotenkanaalwaaier.jpg" width="256" height="256" alt="Gesloten kanaalwaaier"></a> 
 
 *Afbeeldingen van een schroefwaaier, s tube waaier en gesloten kanaalwaaier* 
 
@@ -133,23 +133,28 @@ Een pomp bestaat uit de volgende onderdelen: Pomphuis, pompmotor, pompwaaier, po
 
 Een vacuümpompstation heeft als onderdeel een vacuümpomp, die het stelsel vacuüm zuigt, waardoor het afvalwater de leidingen in gaat. Van een vacuümpomp is het pompfabrikaat (synoniem is pompfabrikant), pomptype, serienummer en bouwjaar relevant om vast te leggen voor het beheer. 
 
-<a title="Srstevens3, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Vacuum_Station_Layout.jpg"><img width="1024" alt="Vacuumpompstation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Vacuum_Station_Layout.jpg/1024px-Vacuum_Station_Layout.jpg"></a>
+<a title="Srstevens3, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Vacuum_Station_Layout.jpg"><img width="512" alt="Vacuumpompstation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Vacuum_Station_Layout.jpg/512px-Vacuum_Station_Layout.jpg"></a>
 *Afbeelding van een vacuümpompstation* 
 
 ### Vijzel
 
 Een vijzel is een onderdeel van een vijzelgemaal waarvan de volgende kenmerken relevant zijn om vast te leggen: Diameter, lengte, type onderlager, hellingshoek, type vertragingskast, toerental ingaand, toerental uitgaand en serienummer. Een vijzel is géén pomp.
 
-<img src="media/vijzelgemaal.jpg" width="1024" alt="Vijzel"></a>
+<img src="media/vijzelgemaal.jpg" width="512" alt="Vijzel"></a>
+
 *Afbeelding van een vijzel* 
 
 ### Compressor
 
 Een compressor is een onderdeel van een luchtpersgemaal waarvan de volgende kenmerken relevant zijn om vast te leggen: Type rotor, type luchtklepje, luchtcapaciteit, luchtdruk, type compressor en serienummer.
 
-<a id="elektrisch">
+<img src="media/luchtpersgemaal.jpg" width="512" alt="Luchtpersgemaal"></a>
+
+*Afbeelding van een luchtpersgemaal* 
+
+<a id="elektrisch"></a>
   
-## Elektrische onderdelen</a>
+## Elektrische onderdelen
 
 ### Algemeen
 
