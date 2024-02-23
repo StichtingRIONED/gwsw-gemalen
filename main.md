@@ -109,7 +109,7 @@ Een rioolgemaal kan het afvalwater verplaatsen met een centrifugaalpomp, een vac
 
 Een boostergemaal, gemaal droge opstelling, gemaal natte opstelling, opvoergemaal, riooleindgemaal, tussengemaal en drukrioolgemaal hebben als onderdeel een pomp. Een pomp in de riolering is altijd een centrifugaalpomp, waarbij de vloeistof wordt verpompt door middel van centrifugaal krachten veroorzaakt door een draaiende waaier. Pompen, zoals een schroefcentrifugaalpomp of een schroefpomp, met verschillende type waaiers werken allemaal volgens het principe van de centrifugaalpomp.
 
-<img src="media/centriguaalpomp.jpg" width="1024" alt="Centrifugaalpomp"></a>
+<img src="media/centriguaalpomp.jpg" width="512" alt="Centrifugaalpomp"></a>
 
 *Afbeelding van een centrifugaalpomp* 
 
@@ -134,6 +134,7 @@ Een pomp bestaat uit de volgende onderdelen: Pomphuis, pompmotor, pompwaaier, po
 Een vacuümpompstation heeft als onderdeel een vacuümpomp, die het stelsel vacuüm zuigt, waardoor het afvalwater de leidingen in gaat. Van een vacuümpomp is het pompfabrikaat (synoniem is pompfabrikant), pomptype, serienummer en bouwjaar relevant om vast te leggen voor het beheer. 
 
 <a title="Srstevens3, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Vacuum_Station_Layout.jpg"><img width="512" alt="Vacuumpompstation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Vacuum_Station_Layout.jpg/512px-Vacuum_Station_Layout.jpg"></a>
+
 *Afbeelding van een vacuümpompstation* 
 
 ### Vijzel
@@ -168,8 +169,12 @@ Het is voor een beheerder belangrijk om te weten wat de primaire, secundaire en 
 
 ### Type
 
-Voor goed beheer is het belangrijk om vast te leggen wat vanaf welk type elektriciteitskast het gemaal de energievoorziening krijgt. Hiervoor kan gekozen worden uit de volgende typen: Centrale besturingskast, Centrale verdeelkast, Centrale voedingskast, Centrale moederkast, Decentrale besturingskast of Decentrale verdeelkast.
-BESPREKEN
+Voor goed beheer is het belangrijk om vast te leggen wat vanaf welk type elektriciteitskast het gemaal de energievoorziening krijgt. Hiervoor kan gekozen worden uit de volgende typen: 
+- Besturingskast - Een elektriciteitskast met een energieaansluiting voor de besturing en voeding van één regelvoorziening. Er is geen sprake van dochterkasten.
+- Centrale Moederkast - Een elektriciteitskast met een energieaansluiting voor besturing en voeding van één regelvoorziening en de voeding van één of meer dochterkasten.
+- Dochterkast (synoniem is Decentrale kast) - Een elektriciteitskast zonder een energieaansluiting voor besturing en voeding van één regelvoorziening en eventueel de voeding van één of meer dochterkasten.
+- Centrale Voedingskast (synoniem is Centrale Verdeelkast - Een elektriciteitskast met een energieaansluiting voor de voeding van één of meer dochterkasten.
+
 
 # Vervolg
 
