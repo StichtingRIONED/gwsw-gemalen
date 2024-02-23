@@ -125,7 +125,7 @@ Een pomp bestaat uit de volgende onderdelen: Pomphuis, pompmotor, pompwaaier, po
 
 Een vacuümpompstation heeft als onderdeel een vacuümpomp, die het stelsel vacuüm zuigt, waardoor het afvalwater de leidingen in gaat. Van een vacuümpomp is het pompfabrikaat (synoniem is pompfabrikant), pomptype, serienummer en bouwjaar relevant om vast te leggen voor het beheer. 
 
-<a title="Srstevens3, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Vacuum_Station_Layout.jpg"><img width="null" alt="Vacuum Station Layout" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Vacuum_Station_Layout.jpg/nullpx-Vacuum_Station_Layout.jpg"></a>
+<a title="Srstevens3, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Vacuum_Station_Layout.jpg"><img width="1024" alt="Vacuum Station Layout" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Vacuum_Station_Layout.jpg/1024px-Vacuum_Station_Layout.jpg"></a>
 
 ### Vijzel
 
@@ -135,7 +135,8 @@ Een vijzel is een onderdeel van een vijzelgemaal waarvan de volgende kenmerken r
 
 Een compressor is een onderdeel van een luchtpersgemaal waarvan de volgende kenmerken relevant zijn om vast te leggen: Type rotor, type luchtklepje, luchtcapaciteit, luchtdruk, type compressor en serienummer.
 
-<a id="elektrisch">## Elektrische onderdelen</a>
+<a id="elektrisch">
+## Elektrische onderdelen</a>
 
 ### Algemeen
 
