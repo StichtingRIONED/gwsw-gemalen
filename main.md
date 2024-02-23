@@ -69,7 +69,7 @@ Het uiteindelijke doel van GWSW Gemalen is een breed gedragen standaard voor het
 
 De voorliggende versie van GWSW Gemalen richt zich op punt 1: **Het vastleggen en uitwisselen van _fysieke objectinformatie_ ten behoeve van gemalenbeheer in de riolering.** Dit sluit aan op de primaire behoefte van de gemalenbeheerder namelijk het eenduidig vastleggen en uitwisselen van de informatie in een (gemalen-)paspoort.
 
- De uitwerking voor _Conditie_ en _Meet- en stuurdata_ zal op een later (nog te bepalen) moment verder worden opgepakt. Hiervoor is reeds een basis beschikbaar uit het eerdere traject van de werkgroep. Deze zal dan verder kunnen worden uitgewerkt.
+De uitwerking voor _Conditie_ en _Meet- en stuurdata_ zal op een later (nog te bepalen) moment verder worden opgepakt. Hiervoor is reeds een basis beschikbaar uit het eerdere traject van de werkgroep. Deze zal dan verder kunnen worden uitgewerkt.
 
 ## Gegevensstromen en gereedschappen rond het GWSW
 
@@ -85,42 +85,47 @@ Een gemaal bestaat uit bouwkundige, mechanische en elektrische onderdelen. Al de
 
 ## Algemene aanpassingen
 
+Voor een beheerder is het belangrijk om vast te leggen wat voor soort rioolgemaal het betreft. Dit kunnen de volgende soorten zijn: Boostergemaal, Gemaal droge opstelling, Gemaal natte opstelling, Luchtpersgemaal, Drukrioolgemaal, Opvoergemaal, Riooleindgemaal, Tussengemaal, Vacuümpompstation en Vijzelgemaal. De verschillende soorten onderscheiden zich door hun functie in het grotere geheel of door de toegepaste wijze van verplaatsing van het afvalwater. 
+
+Drukrioolgemaal heeft als synoniemen Minigemaal en Drukrioleringsunit. 
+
+Een onderscheid tussen het soort pompput is niet alleen belangrijk voor het beheer en risicomanagement, maar is ook een relevant gegeven voor hydraulische berekeningen. Daarom wordt voorgesteld om de term Pompput te gebruiken voor rioolgemalen in vrijverval stelsels en de term Drukrioleringsput te gebruiken voor rioolgemalen in mechanische stelsels.
+
 Voor gemalenbeheer is het belangrijk om de kenmerken Bouwjaar en Theoretische levensduur van een gemaal vast te kunnen leggen. Daarnaast is het belangrijk om vast te kunnen leggen wie met de informatie aan de slag gaat. De uitvoerder of het onderhoudsbedrijf is daarom een noodzakelijke uitbreiding van het GWSW. Gezien de breedte van de toepasbaarheid, adviseert de werkgroep deze kenmerken toe te kennen aan een fysiek object, en niet enkel aan een gemaal of bouwwerk.
 
-## Bouwkundige onderdelen (VANAF HIER NOG TEKSTUEEL AANPASSEN)
+## Bouwkundige onderdelen
 
 Een beheerder (of uitvoerder) moet bij een gemaal kunnen komen om zijn of haar werkzaamheden te verrichten. Een gemaal kan in een gebouw zitten en/of achter een hekwerk zitten. Beiden zijn voorzien van een slot, waarvoor een sleutel nodig is. Het sleutelnummer wordt vastgelegd in een gemaalpaspoort.
 
-Een Elektriciteitskast maakt onderdeel uit van een gemaal. Welke informatie daarvan voor een gemalenbeheerder relevant is om vast te leggen, staat in Paragraaf 3.5.
+Een elektriciteitskast maakt onderdeel uit van een gemaal. Welke informatie daarvan voor een gemalenbeheerder relevant is om vast te leggen, staat bij de [Elektrische onderdelen](#elektrisch) beschreven.
 
-Een gemaal heeft verder een (pomp)put die bestaat uit één of meerdere compartimenten of kelders. Dit kunnen zijn: Natte pompkelder, droge pompkelder, ontvangstkelder, XXX. Dit is voor het beheer belangrijk om vast te leggen. Om de putvulling in procenten te kunnen uitrekenen en om het nulpunt van niveaumetingen te valideren, is het niveau van de bovenkant van de putbodem een relevant gegeven om vast te leggen.
-
-Het onderscheid tussen het soort pompput is niet alleen belangrijk voor het beheer (en risicomanagement), maar is ook een relevant gegeven voor hydraulische berekeningen. Daarom wordt voorgesteld om:
-Put > Rioolput > Pompput te gebruiken voor rioolgemalen in vrijverval stelsels
-Put > Rioolput > Pompunit is een pompput in mechanische stelsels > Of is er een betere naam voor deze put? E.g. Drukrioleringsput.
-
- 
-Voor een beheerder is het belangrijk om vast te leggen wat voor soort rioolgemaal het betreft. Dit kunnen de volgende soorten zijn: Boostergemaal, gemaal droge opstelling, gemaal natte opstelling, luchtpersgemaal, minigemaal[^1], opvoergemaal, riooleindgemaal, tussengemaal, vacuümpompstation en vijzelgemaal. 
-
-De verschillende soorten onderscheiden zich door hun functie in het grotere geheel of door de toegepaste wijze van verplaatsing van het afvalwater.
-
-[^1]: Naast het toevoegen van concepten en aanpassen van definities, moet het GWSW worden aangepast voor het concept Minigemaal. Minigemaal is in GWSW 1.6 een synoniem van pompunit, een concept dat onder Rioolput zit en niet bij Rioolgemaal.
+Een gemaal heeft een pompput die bestaat uit één of meerdere compartimenten of kelders. Dit kunnen zijn: Natte pompkelder, Droge pompkelder en Ontvangstkelder. Dit is voor het beheer belangrijk om vast te leggen. Om de putvulling in procenten te kunnen uitrekenen en om het nulpunt van niveaumetingen te valideren, is het niveau van de bovenkant van de putbodem een relevant gegeven om vast te leggen.
 
 ## Mechanische onderdelen
 
-Een rioolgemaal kan het afvalwater verplaatsen met een pomp, een vacuümpomp, een vijzel of een compressor. Dit zijn mechanische onderdelen van een gemaal.
+Een rioolgemaal kan het afvalwater verplaatsen met een centrifugaalpomp, een vacuümpomp (in vacuümpompstation), een vijzel (in vijzelgemaal) of een compressor (in luchtpersgemaal). Dit zijn mechanische onderdelen van een gemaal.
 
-### Pomp
+### Centrifugaalpomp
 
-Een boostergemaal, gemaal droge opstelling, gemaal natte opstelling, opvoergemaal, riooleindgemaal, tussengemaal en minigemaal hebben als onderdeel een pomp. Een pomp in de riolering is altijd een centrifugaalpomp[^2], waarbij de vloeistof wordt verpompt door middel van centrifugaal krachten veroorzaakt door een draaiende waaier. Van de pomp is het merk, type en serienummer relevant om vast te leggen voor het beheer, alsook de hoogte van het pomphart en de pompplaatsing. De meeste relevante kenmerken voor beheer zijn af te leiden uit het merk en type van de pomp.
+Een boostergemaal, gemaal droge opstelling, gemaal natte opstelling, opvoergemaal, riooleindgemaal, tussengemaal en drukrioolgemaal hebben als onderdeel een pomp. Een pomp in de riolering is altijd een centrifugaalpomp, waarbij de vloeistof wordt verpompt door middel van centrifugaal krachten veroorzaakt door een draaiende waaier. Pompen, zoals een schroefcentrifugaalpomp of een schroefpomp, met verschillende type waaiers werken allemaal volgens het principe van de centrifugaalpomp.
 
-Een pomp bestaat uit de volgende onderdelen: Pompwaaier, pomphuis, pompklauw, pompmotor, pompsnijplaat, pompmes, geleidestang, ketting/hijsinrichting en voetbocht. Van de voetbocht is de doorlaatdiameter en het type relevant. Van de geleidestang is de diameter en lengte relevant. Van de ketting/hijsinrichting is het van belang of deze wel/niet gecertificeerd is en tot wanneer. Een hijskabel hoeft niet te zijn gecertificeerd een hijsketting moet dat wel zijn. 
+Van de pomp is het pompfabrikaat (synoniem is pompfabrikant), pomptype, serienummer en bouwjaar relevant om vast te leggen voor het beheer, alsook de hoogte van het pomphart en de pompplaatsing. De meeste relevante kenmerken voor beheer zijn af te leiden uit het pompfabrikaat en pomptype. Bij de pompplaatsing kan gekozen worden uit Horizontaal of Verticaal. Daarnaast kan worden vastgelegd of het een vaste opstelling is of in een slede.
 
-[^2]: Pompen, zoals een Schroefcentrifugaalpomp of een Schroefpomp, met verschillende type waaiers werken allemaal volgens het principe van de centrifugaalpomp.
+Een pomp bestaat uit de volgende onderdelen: Pomphuis, pompmotor, pompwaaier, pompsnijplaat, pompmes, pompklauw, aansluiting, geleidestang en hijsketting. 
+- Van de pompmotor is de I nominaal, max. toerental, gewicht, typeaanduiding, begindatum, motorvermogen, asvermogen, serienummer en voltage relevant.
+- Er zijn op hoofdlijnen twee type pompwaaiers: 1) Vortexwaaier en 2) Centrifugaalwaaier. Een centrifugaalwaaier heeft de volgende subtypen: Gesloten kanaalwaaier, Open kanaalwaaier, Schroefwaaier, N-waaier, Snijwaaier en S-tubewaaier. Bij de pompwaaier is het daarnaast belangrijk het materiaal vast te leggen. Dit kan zijn: Gietijzer, RVS, Chroomstaal (synoniem is Hard iron) of Gehard staal.
+- Omdat een pompklauw losgeleverd kan worden van de pomp, is het belangrijk om vast te leggen wat de doorlaatdiameter is en bij welke voetbocht de pompklauw hoort.
+- De aansluiting kan zijn aan de onderkant via een voetbocht of aan de bovenkant via een hangkoppeling (synoniem is bovenwaterkoppeling)
+ - Van voetbocht is de fabrikant, typeaanduiding, doorlaatdiameter in, doorlaatdiameter uit en het materiaal relevant. Met diameterdoorlaat in en uit kan worden aangegeven dat de voetbocht conisch van vorm is.
+ - Van hangkoppeling is de diameter van de slag relevant.
+- Van de geleidestang is de diameter en lengte relevant.
+- Van de hijsketting is het relevant of deze wel/niet gecertificeerd is, tot wanneer de certificering geldig is, de lengte van de ketting en of deze weg/geen overnameoog (synoniem is overnameschalm) heeft.
 
 ### Vacuümpomp
 
-Een vacuümpompstation heeft als onderdeel een vacuümpomp, die het stelsel vacuüm zuigt, waardoor het afvalwater de leidingen in gaat. Een vacuümpomp bestaat uit de volgende onderdelen: XXX
+Een vacuümpompstation heeft als onderdeel een vacuümpomp, die het stelsel vacuüm zuigt, waardoor het afvalwater de leidingen in gaat. Van een vacuümpomp is het pompfabrikaat (synoniem is pompfabrikant), pomptype, serienummer en bouwjaar relevant om vast te leggen voor het beheer. 
+
+<a title="Srstevens3, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Vacuum_Station_Layout.jpg"><img width="null" alt="Vacuum Station Layout" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Vacuum_Station_Layout.jpg/nullpx-Vacuum_Station_Layout.jpg"></a>
 
 ### Vijzel
 
@@ -130,7 +135,7 @@ Een vijzel is een onderdeel van een vijzelgemaal waarvan de volgende kenmerken r
 
 Een compressor is een onderdeel van een luchtpersgemaal waarvan de volgende kenmerken relevant zijn om vast te leggen: Type rotor, type luchtklepje, luchtcapaciteit, luchtdruk, type compressor en serienummer.
 
-## Elektrische onderdelen
+<a id="elektrisch">## Elektrische onderdelen</a>
 
 ### Algemeen
 
