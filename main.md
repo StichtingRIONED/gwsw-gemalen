@@ -67,15 +67,15 @@ Het uiteindelijke doel van GWSW Gemalen is een breed gedragen standaard voor het
 2)	Conditie
 3)	Meet- en stuurdata
 
-De voorliggende versie van GWSW Gemalen richt zich op punt 1: **Het vastleggen en uitwisselen van objectinformatie ten behoeve van gemalenbeheer in de riolering.** Dit sluit aan op de primaire behoefte van de gemalenbeheerder namelijk het eenduidig vastleggen en uitwisselen van de informatie in een (gemalen-)paspoort.
+De voorliggende versie van GWSW Gemalen richt zich op punt 1: **Het vastleggen en uitwisselen van _fysieke objectinformatie_ ten behoeve van gemalenbeheer in de riolering.** Dit sluit aan op de primaire behoefte van de gemalenbeheerder namelijk het eenduidig vastleggen en uitwisselen van de informatie in een (gemalen-)paspoort.
 
-Bij de doorontwikkeling van GWSW Gemalen zal deze module uitgebreid kunnen worden voor de beschrijving van de punten _2) Conditie_ en _3) Meet- en stuurdata_ . Hiervoor is reeds een basis beschikbaar uit het eerdere traject van de werkgroep. Deze zal dan verder kunnen worden uitgewerkt.
+ De uitwerking voor _Conditie_ en _Meet- en stuurdata_ zal op een later (nog te bepalen) moment verder worden opgepakt. Hiervoor is reeds een basis beschikbaar uit het eerdere traject van de werkgroep. Deze zal dan verder kunnen worden uitgewerkt.
 
 ## Gegevensstromen en gereedschappen rond het GWSW
 
 Nu al worden door veel gemeenten en waterschappen de gegevens van rioolstelsels en afvoersystemen op de GWSW Server [apps.gwsw.nl](https://apps.gwsw.nl) gepubliceerd. Deze gegevens komen 1) via de upload functionaliteit van de GWSW Server middels een OroX (.ttl) bestand vanuit het gemeentelijke beheerpakket of 2) via het GegevensKnooppunt Waterschappen (Het Waterschapshuis) terecht in de dataomgeving van de betreffende organisatie op de GWSW Server. 
 
-De module GWSW Gemalen ondersteunt in de gegevensuitwisseling ten behoeve van gemalenbeheer. Het is dus van belang dat de beheerpakketten deze gegevens conform het datamodel GWSW-Gemalen aan kunnen leveren. Dit zal via een uitwisselprotocol conform de wereldwijde linked data taal RDF/RDFS/OWL-2/Turtle worden gerealiseerd.
+De module GWSW Gemalen ondersteunt in de gegevensuitwisseling ten behoeve van gemalenbeheer. Het is dus van belang dat de beheerpakketten deze gegevens conform het datamodel GWSW Gemalen aan kunnen leveren. Dit zal via een uitwisselprotocol conform de wereldwijde linked data taal RDF/RDFS/OWL-2/Turtle worden gerealiseerd.
 
 # Advies voor datamodel
 
