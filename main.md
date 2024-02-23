@@ -75,7 +75,7 @@ De uitwerking voor _Conditie_ en _Meet- en stuurdata_ zal op een later (nog te b
 
 Nu al worden door veel gemeenten en waterschappen de gegevens van rioolstelsels en afvoersystemen op de GWSW Server [apps.gwsw.nl](https://apps.gwsw.nl) gepubliceerd. Deze gegevens komen 1) via de upload functionaliteit van de GWSW Server middels een OroX (.ttl) bestand vanuit het gemeentelijke beheerpakket of 2) via het GegevensKnooppunt Waterschappen (Het Waterschapshuis) terecht in de dataomgeving van de betreffende organisatie op de GWSW Server. 
 
-<img src="media/uitwisseling_gwsw.jpg" width="512" alt="Uitwisseling met GWSW-server"></a>
+<img src="media/uitwisseling_gwsw.jpg" width="1024" alt="Uitwisseling met GWSW-server"></a>
 
 *Gegevensuitwisseling via de GWSW-server* 
 
