@@ -75,7 +75,11 @@ De uitwerking voor _Conditie_ en _Meet- en stuurdata_ zal op een later (nog te b
 
 Nu al worden door veel gemeenten en waterschappen de gegevens van rioolstelsels en afvoersystemen op de GWSW Server [apps.gwsw.nl](https://apps.gwsw.nl) gepubliceerd. Deze gegevens komen 1) via de upload functionaliteit van de GWSW Server middels een OroX (.ttl) bestand vanuit het gemeentelijke beheerpakket of 2) via het GegevensKnooppunt Waterschappen (Het Waterschapshuis) terecht in de dataomgeving van de betreffende organisatie op de GWSW Server. 
 
-De module GWSW Gemalen ondersteunt in de gegevensuitwisseling ten behoeve van gemalenbeheer. Het is dus van belang dat de beheerpakketten deze gegevens conform het datamodel GWSW Gemalen aan kunnen leveren. Dit zal via een uitwisselprotocol conform de wereldwijde linked data taal RDF/RDFS/OWL-2/Turtle worden gerealiseerd.
+<img src="media/uitwisseling_gwsw.jpg" width="512" alt="Uitwisseling met GWSW-server"></a>
+
+*Gegevensuitwisseling via de GWSW-server* 
+
+De module GWSW Gemalen ondersteunt in de gegevensuitwisseling ten behoeve van gemalenbeheer. Het is dus van belang dat de gemalenbeheerpakketten deze gegevens conform het datamodel GWSW Gemalen aan kunnen leveren. Dit zal ook via het uitwisselprotocol conform de wereldwijde linked data taal RDF/RDFS/OWL-2/Turtle gaan.
 
 # Advies voor datamodel
 
@@ -127,7 +131,7 @@ Een pomp bestaat uit de volgende onderdelen: Pomphuis, pompmotor, pompwaaier, po
 
 <img src="media/schroefwaaier.jpg" width="256" height="256" alt="Schroefwaaier"></a> <img src="media/stubewaaier.jpg" width="256" height="256" alt="S tube waaier"></a> <img src="media/geslotenkanaalwaaier.jpg" width="256" height="256" alt="Gesloten kanaalwaaier"></a> 
 
-*Afbeeldingen van een schroefwaaier, s tube waaier en gesloten kanaalwaaier* 
+*Afbeeldingen van een schroefwaaier (links), s tube waaier (midden) en gesloten kanaalwaaier (rechts)* 
 
 ### Vacuümpomp
 
@@ -180,7 +184,7 @@ Voor goed beheer is het belangrijk om vast te leggen wat vanaf welk type elektri
 
 *Legenda voor onderstaande schematisaties* 
 
-<img src="media/besturingskast.jpg" width="512" alt="Besturingskast"></a>
+<img src="media/besturingskast.jpg" width="256" alt="Besturingskast"></a>
 
 *Schematisatie van een Besturingskast* 
 
@@ -194,7 +198,7 @@ Voor goed beheer is het belangrijk om vast te leggen wat vanaf welk type elektri
 
 <img src="media/dochterkast.jpg" width="512" alt="Dochterkast"></a>
 
-*Schematisatie van dochterkasten
+*Schematisatie van dochterkasten*
 
 # Vervolg
 
