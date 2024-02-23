@@ -89,7 +89,7 @@ Een gemaal bestaat uit bouwkundige, mechanische en elektrische onderdelen. Al de
 
 ## Algemene aanpassingen
 
-Voor een beheerder is het belangrijk om vast te leggen wat voor soort rioolgemaal het betreft. Dit kunnen de volgende soorten zijn: Boostergemaal, Gemaal droge opstelling, Gemaal natte opstelling, Luchtpersgemaal, Drukrioolgemaal, Opvoergemaal, Riooleindgemaal, Tussengemaal, Vacuümpompstation en Vijzelgemaal. De verschillende soorten onderscheiden zich door hun functie in het grotere geheel of door de toegepaste wijze van verplaatsing van het afvalwater. 
+Voor een beheerder is het belangrijk om vast te leggen wat voor soort rioolgemaal het betreft. Dit kunnen de volgende soorten zijn: Boostergemaal, Gemaal droge opstelling, Gemaal natte opstelling, Luchtpersgemaal, Drukrioolgemaal, Opvoergemaal, Riooleindgemaal, Tussengemaal (synoniem is doorvoergemaal), Vacuümpompstation en Vijzelgemaal. De verschillende soorten onderscheiden zich door hun functie in het grotere geheel of door de toegepaste wijze van verplaatsing van het afvalwater. 
 
 Drukrioolgemaal heeft als synoniemen Minigemaal en Drukrioleringsunit. 
 
