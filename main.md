@@ -110,6 +110,7 @@ Een rioolgemaal kan het afvalwater verplaatsen met een centrifugaalpomp, een vac
 Een boostergemaal, gemaal droge opstelling, gemaal natte opstelling, opvoergemaal, riooleindgemaal, tussengemaal en drukrioolgemaal hebben als onderdeel een pomp. Een pomp in de riolering is altijd een centrifugaalpomp, waarbij de vloeistof wordt verpompt door middel van centrifugaal krachten veroorzaakt door een draaiende waaier. Pompen, zoals een schroefcentrifugaalpomp of een schroefpomp, met verschillende type waaiers werken allemaal volgens het principe van de centrifugaalpomp.
 
 <img src="media/centriguaalpomp.jpg" width="1024" alt="Centrifugaalpomp"></a>
+
 *Afbeelding van een centrifugaalpomp* 
 
 Van de pomp is het pompfabrikaat (synoniem is pompfabrikant), pomptype, serienummer en bouwjaar relevant om vast te leggen voor het beheer, alsook de hoogte van het pomphart en de pompplaatsing. De meeste relevante kenmerken voor beheer zijn af te leiden uit het pompfabrikaat en pomptype. Bij de pompplaatsing kan gekozen worden uit Horizontaal of Verticaal. Daarnaast kan worden vastgelegd of het een vaste opstelling is of in een slede.
@@ -124,7 +125,8 @@ Een pomp bestaat uit de volgende onderdelen: Pomphuis, pompmotor, pompwaaier, po
 - Van de geleidestang is de diameter en lengte relevant.
 - Van de hijsketting is het relevant of deze wel/niet gecertificeerd is, tot wanneer de certificering geldig is, de lengte van de ketting en of deze weg/geen overnameoog (synoniem is overnameschalm) heeft.
 
-<img src="media/schroefwaaier.jpg" width="512" alt="Schroefwaaier"></a> <img src="media/stubewaaier.jpg" width="512" alt="S tube waaier"></a> <img src="media/geslotenkanaalwaaier.jpg" width="512" alt="Gesloten kanaalwaaier"></a> 
+<img src="media/schroefwaaier.jpg" width="256" alt="Schroefwaaier"></a> <img src="media/stubewaaier.jpg" width="256" alt="S tube waaier"></a> <img src="media/geslotenkanaalwaaier.jpg" width="256" alt="Gesloten kanaalwaaier"></a> 
+
 *Afbeeldingen van een schroefwaaier, s tube waaier en gesloten kanaalwaaier* 
 
 ### Vacuümpomp
@@ -151,15 +153,13 @@ Een compressor is een onderdeel van een luchtpersgemaal waarvan de volgende kenm
 
 ### Algemeen
 
-Kasten, zoals elektriciteitskasten worden in IMBOR opgenomen. Het detailniveau dat gevraagd is in de totstandkoming van GWSW-Gemalen zal binnen het IMBOR worden meegenomen. Daarom is voor GWSW-Gemalen gekozen voor een beperking in de detaillering van elektriciteitskasten.
-
-Het concept ‘Elektriciteitskast’ valt nu onder het concept ‘Apparatuur’. De werkgroep GWSW-Gemalen adviseert om ‘Elektriciteitskast’ te laten vallen onder het concept ‘Kast’ en ‘Kast’ te laten vallen onder het concept ‘Constructieonderdeel’ (zoals in IMBOR).
+Kasten, zoals elektriciteitskasten worden in IMBOR opgenomen. Het detailniveau dat benoemd is tijdens de totstandkoming van GWSW Gemalen zal in het IMBOR worden meegenomen. Daarom is voor GWSW Gemalen gekozen voor een beperking in de detaillering van elektriciteitskasten.
 
 ### Energievoorziening
 
-In Paragraaf 3.3 staat opgenomen dat een elektriciteitskast een onderdeel is van het gemaal. Een pomp, vacuümpomp en een compressor, maar ook de verlichting van het gebouw en het terrein bij het gemaal krijgen hun energievoorziening vanuit die elektriciteitskast. 
+Een elektriciteitskast is een bouwkundig onderdeel van een gemaal. Een pomp, vacuümpomp en een compressor, maar ook de verlichting van het gebouw en het terrein bij het gemaal krijgen hun energievoorziening vanuit die elektriciteitskast. 
 
-Het is voor een beheerder belangrijk om te weten wat de primaire, secundaire en nood energievoorziening van een gemaal is. Het advies van de werkgroep GWSW-Gemalen is om deze informatie te koppelen aan de elektriciteitskast. De energievoorziening kan afkomstig zijn van het elektriciteitsnet, watermodel, windmodel, zonnepanelen, batterij, aggregaat, XXX.
+Het is voor een beheerder belangrijk om te weten wat de primaire, secundaire en nood energievoorziening van een gemaal is. Het advies van de werkgroep GWSW Gemalen is om deze informatie te koppelen aan de elektriciteitskast. De energievoorziening kan afkomstig zijn van het Elektriciteitsnet, Zonnepanelen, Accus, Aggregaat of Overig.
 
 ### Type
 
