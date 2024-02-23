@@ -109,6 +109,9 @@ Een rioolgemaal kan het afvalwater verplaatsen met een centrifugaalpomp, een vac
 
 Een boostergemaal, gemaal droge opstelling, gemaal natte opstelling, opvoergemaal, riooleindgemaal, tussengemaal en drukrioolgemaal hebben als onderdeel een pomp. Een pomp in de riolering is altijd een centrifugaalpomp, waarbij de vloeistof wordt verpompt door middel van centrifugaal krachten veroorzaakt door een draaiende waaier. Pompen, zoals een schroefcentrifugaalpomp of een schroefpomp, met verschillende type waaiers werken allemaal volgens het principe van de centrifugaalpomp.
 
+<img src="media/centriguaalpomp.jpg" width="1024" alt="Centrifugaalpomp"></a>
+*Afbeelding van een centrifugaalpomp* 
+
 Van de pomp is het pompfabrikaat (synoniem is pompfabrikant), pomptype, serienummer en bouwjaar relevant om vast te leggen voor het beheer, alsook de hoogte van het pomphart en de pompplaatsing. De meeste relevante kenmerken voor beheer zijn af te leiden uit het pompfabrikaat en pomptype. Bij de pompplaatsing kan gekozen worden uit Horizontaal of Verticaal. Daarnaast kan worden vastgelegd of het een vaste opstelling is of in een slede.
 
 Een pomp bestaat uit de volgende onderdelen: Pomphuis, pompmotor, pompwaaier, pompsnijplaat, pompmes, pompklauw, aansluiting, geleidestang en hijsketting. 
@@ -121,21 +124,29 @@ Een pomp bestaat uit de volgende onderdelen: Pomphuis, pompmotor, pompwaaier, po
 - Van de geleidestang is de diameter en lengte relevant.
 - Van de hijsketting is het relevant of deze wel/niet gecertificeerd is, tot wanneer de certificering geldig is, de lengte van de ketting en of deze weg/geen overnameoog (synoniem is overnameschalm) heeft.
 
+<img src="media/schroefwaaier.jpg" width="512" alt="Schroefwaaier"></a> <img src="media/stubewaaier.jpg" width="512" alt="S tube waaier"></a> <img src="media/geslotenkanaalwaaier.jpg" width="512" alt="Gesloten kanaalwaaier"></a> 
+*Afbeeldingen van een schroefwaaier, s tube waaier en gesloten kanaalwaaier* 
+
 ### Vacuümpomp
 
 Een vacuümpompstation heeft als onderdeel een vacuümpomp, die het stelsel vacuüm zuigt, waardoor het afvalwater de leidingen in gaat. Van een vacuümpomp is het pompfabrikaat (synoniem is pompfabrikant), pomptype, serienummer en bouwjaar relevant om vast te leggen voor het beheer. 
 
-<a title="Srstevens3, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Vacuum_Station_Layout.jpg"><img width="1024" alt="Vacuum Station Layout" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Vacuum_Station_Layout.jpg/1024px-Vacuum_Station_Layout.jpg"></a>
+<a title="Srstevens3, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Vacuum_Station_Layout.jpg"><img width="1024" alt="Vacuumpompstation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Vacuum_Station_Layout.jpg/1024px-Vacuum_Station_Layout.jpg"></a>
+*Afbeelding van een vacuümpompstation* 
 
 ### Vijzel
 
 Een vijzel is een onderdeel van een vijzelgemaal waarvan de volgende kenmerken relevant zijn om vast te leggen: Diameter, lengte, type onderlager, hellingshoek, type vertragingskast, toerental ingaand, toerental uitgaand en serienummer. Een vijzel is géén pomp.
+
+<img src="media/vijzelgemaal.jpg" width="1024" alt="Vijzel"></a>
+*Afbeelding van een vijzel* 
 
 ### Compressor
 
 Een compressor is een onderdeel van een luchtpersgemaal waarvan de volgende kenmerken relevant zijn om vast te leggen: Type rotor, type luchtklepje, luchtcapaciteit, luchtdruk, type compressor en serienummer.
 
 <a id="elektrisch">
+  
 ## Elektrische onderdelen</a>
 
 ### Algemeen
